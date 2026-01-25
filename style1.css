@@ -1,0 +1,57 @@
+
+
+.header {
+    font-family: "Quantico", sans-serif;
+    text-align: center;
+    border: 5px ridge #B7410E;
+    background-color: #FFCE1B;
+}
+
+.operators {
+    font-family: "Quantico", sans-serif;
+    background-color: #FFCE1B;
+    size: 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px 30px;
+    margin: 2px 1px;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px #BE5103;
+}
+
+
+.numbers_table {
+     font-family: "Quantico", sans-serif;
+    background-color: #FFCE1B;
+    size: 30px;
+    text-align: center;
+    display: inline-block;
+    font-size: 30px;
+    padding: 10px 30px;
+    margin: 2px 1px;
+    text-decoration: none;
+    border-radius: 15px;
+    box-shadow: 5px 5px #BE5103;
+}
+
+table,th,td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    align-self: center;
+}
+
+.calc_table {
+    margin: 0 auto;
+}
+
+th,td {
+    background-color: #069494;
+    margin: 20px;
+    padding: 15px;
+}
+
+
+
+
